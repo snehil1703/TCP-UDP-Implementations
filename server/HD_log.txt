@@ -1,0 +1,4 @@
+21:39:04.604 DEBUG | =============== MactoTV Log =============== [dlgControl.cpp:2518]
+21:39:04.605 DEBUG | Product name:HD [dlgControl.cpp:2519]
+21:39:04.605 DEBUG | Product version:1.0.2.7 [dlgControl.cpp:2520]
+21:39:33.247 DEBUG | InstallGoDetectResolutionTimer [dlgSearchControl.cpp:1238]
